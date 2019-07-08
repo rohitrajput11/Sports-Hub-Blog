@@ -1,0 +1,25 @@
+
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/sportshub",
+    "prod_uri":"mysql://root:@localhost/sportshub",
+    "fb_url":"https://facebook.com/sportshub",
+    "tw_url":"https://twitter.com/sportshub",
+    "gh_url": "https://github.com/sportshub",
+    "blog_name": "Sports Hub",
+    "tag_line": "Sports Nation",
+    "gmail-user":"your-email@gmail.com",
+    "gmail-password":"pass",
+    "about_text": "Hi, my name is Rohit and I create this Sports Hub Blog. This Sports blog is created using Python Flask.",
+    "no_of_posts": 4,
+    "login_image":"slogo.png",
+    "admin_user":"rohit",
+    "admin_password": "pass",
+    "upload_location":"C:\\Users\\Rohit\\PycharmProjects\\Sports Blog Flask\\static"
+
+
+  }
+
+}
